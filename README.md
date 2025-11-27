@@ -16,12 +16,6 @@ The dataset includes over 235,000 records with detailed information about EVs re
 - MSRP and CAFV Eligibility
 - Location data (county, city, latitude/longitude)
 
-## 📁 Folder Structure
-- `data/` — Raw dataset and any cleaned versions
-- `notebooks/` — Jupyter notebooks for data analysis and visualization
-- `scripts/` — Python scripts for data cleaning and preprocessing
-- `outputs/` — Visualizations and summary tables
-
 ## 💡 Goals
 This project aims to support:
 - Policymakers and environmental researchers understanding EV adoption
